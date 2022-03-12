@@ -238,11 +238,8 @@ def predict():
         region_region_31, region_region_32, region_region_33,
         region_region_34, region_region_4, region_region_5,
         region_region_6,region_region_7, region_region_8,
-        region_region_9, education_Below_secondary,
-        education_Master,
-        recruitment_channel_referred, recruitment_channel_sourcing,
+        region_region_9,
          age_30, age_40]])
-
 
 
        
