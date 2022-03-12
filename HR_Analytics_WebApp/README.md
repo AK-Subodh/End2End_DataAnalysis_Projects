@@ -22,7 +22,8 @@
 - Deploying on Heroku
 
 ### Demo
-
+It might be that free trial/usage for the month is used (at heroku). This demo video is just in case.
+- [Click here to check the demo video](https://github.com/AK-Subodh/End2End_DataAnalysis_Projects/blob/main/HR_Analytics_WebApp/20220312_120145.gif)
 
 ## App is deployed at heroku
 - [Click here for trial run](https://hranalytics-webapp.herokuapp.com/)
